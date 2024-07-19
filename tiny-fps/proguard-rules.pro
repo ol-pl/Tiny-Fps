@@ -21,3 +21,5 @@
 #-renamesourcefileattribute SourceFile
 
 -keep class com.olpl.tiny_fps** {*;}
+-keep class java.lang.invoke.StringConcatFactory { *; }
+-keep class java.lang.String { *; }
