@@ -20,4 +20,4 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keep class com.olpl.tiny_fps.TinyFps {*;}
+-keep class com.olpl.tiny_fps** {*;}
